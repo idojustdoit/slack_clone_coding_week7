@@ -1,7 +1,6 @@
 # Slack Clone coding🥘
 
 ## 프로젝트 소개 😁
-https://www.notion.so/e-gloo-3cb3b5946225402aa6b142b77ce39f4a#515a24cbd0cd42369f5e3a4c5583d585
 
 슬랙에 실시간 채팅기능을 주된 기능구현의 목적으로 클론 코딩하였습니다! 
 
